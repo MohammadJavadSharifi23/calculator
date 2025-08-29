@@ -16,6 +16,13 @@ A **powerful, single-file engineering calculator** built with **Python & Tkinter
 
 ---
 
+## 🧰 Required Libraries
+
+* `tkinter` (GUI framework, comes with Python by default)
+* `math` (for mathematical operations, comes with Python by default)
+
+---
+
 ## 🚀 How to Run
 
 1. Make sure **Python 3** is installed on your system.
